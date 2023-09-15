@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on 仙_ddx</title>
+        <link>https://example.com/page/</link>
+        <description>Recent content in Pages on 仙_ddx</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>xian_ddx</copyright>
+        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>历史</title>
+        <link>https://example.com/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>关于</title>
+        <link>https://example.com/%E5%85%B3%E4%BA%8E/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/%E5%85%B3%E4%BA%8E/</guid>
+        <description>&lt;h1 id=&#34;这是一个什么网站&#34;&gt;这是一个什么网站&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;这是dnx在学习如何使用hugo建立静态网站时候的尝试&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;这个网站会变得怎么样&#34;&gt;这个网站会变得怎么样&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;作者会逐步学习各种只是并随缘更新学习情况&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>搜索</title>
+        <link>https://example.com/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/search/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>相关链接</title>
+        <link>https://example.com/%E7%9B%B8%E5%85%B3%E9%93%BE%E6%8E%A5/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/%E7%9B%B8%E5%85%B3%E9%93%BE%E6%8E%A5/</guid>
+        <description>&lt;ul&gt;
+&lt;li&gt;作者会把一些论文及有趣问题的网址放在这里&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
